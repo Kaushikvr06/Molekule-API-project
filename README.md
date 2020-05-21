@@ -2,7 +2,7 @@
 
 ## Problem Description
 
-This project makes use of the freely available RESTful API provided by http://football-data.org to retrieve data relate to football (soccer) in JSON format. This data is then processed using Python to retrieve the names of the top 5 goalscorers in 3 different competitions/leagues - English Premier League, Spanish League and UEFA Champions League. 
+This project makes use of the freely available RESTful API provided by http://football-data.org to retrieve data related to football (soccer) in JSON format. This data is then processed using Python to retrieve the names of the top 5 goalscorers in 3 different competitions/leagues - English Premier League, Spanish League and UEFA Champions League. 
 
 
 ## Authentication
