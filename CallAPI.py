@@ -1,7 +1,7 @@
 import requests
 from columnar import columnar
 
-# Python helper function that accepts JSON data as parameter and returns the top 5 goal scorers from the data. 
+# Helper that accepts JSON data as parameter and returns the top 5 goal scorers from the data. 
 def get_top_scorers(json_data):
     
     scorers = json_data['scorers']
