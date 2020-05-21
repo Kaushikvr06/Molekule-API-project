@@ -20,5 +20,13 @@ The main functionality of the code has been implemented in the helper function -
 
 ### Sample outputs
 
+Premier League (2019-2020 season) top 5 goalscorers
+
+![image](https://user-images.githubusercontent.com/18036391/82613196-b7d5e400-9b92-11ea-8de0-725a7faafc4b.png)
+
+Champions League (2019-2020 season) top 5 goalscorers
+
+
+
 
 
