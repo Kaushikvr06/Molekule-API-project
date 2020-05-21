@@ -9,3 +9,16 @@ This project makes use of the freely available RESTful API provided by http://fo
 
 To enable the retrieval of data, a free account needs to be created. Once that is done, the API authentication token is provided over email. 
 
+![image](https://user-images.githubusercontent.com/18036391/82612771-aa6c2a00-9b91-11ea-8078-b8156500a7b6.png)
+
+
+## High level overview of the code
+
+The code file is named **CallAPI.py**.
+
+The main functionality of the code has been implemented in the helper function - **get_top_scorers()**. This function accepts JSON data as an input parameter and returns the top 5 scorers in each competition in a tabular format. 
+
+### Sample outputs
+
+
+
